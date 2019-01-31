@@ -30,7 +30,6 @@ section { display: flex;}
     border: 1px solid #a0a0a0;
     color: #8598a2;
     line-height: 1.4;
-    
 }
 .text-light { font-size: 30px; color: #a0a0a0; }
 .text-secondary { font-size: 30px; color: #faa541; }
